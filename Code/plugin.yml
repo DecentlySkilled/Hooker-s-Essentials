@@ -1,0 +1,7 @@
+name: HookersEssentials
+version: '-x1.0'
+main: me.syanide.hookersessentials.Main
+api-version: 1.16
+description: Essential items for hookers lmao kill me pls
+commands:
+  Hooker:
